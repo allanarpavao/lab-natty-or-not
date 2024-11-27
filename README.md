@@ -1,8 +1,7 @@
 # **Cuidando da Saúde Mental: Um Guia**
 
 ## 📒 Descrição
-Este projeto consiste na criação de um e-book que explora o impacto de hábitos diários na saúde mental.  
-Combinando textos informativos e imagens inspiradoras o e-book oferece uma experiência imersiva, educativa e acessível para ajudar os leitores a cuidar melhor do seu bem-estar emocional.
+Este projeto utiliza Inteligências Artificiais para criar um e-book que explora o impacto de hábitos diários na saúde mental. Com o apoio de IA generativa, foram desenvolvidos textos informativos, imagens inspiradoras e recursos interativos que demonstram como a tecnologia está revolucionando a maneira de produzir conteúdos educativos e acessíveis.
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Roteirização do conteúdo e criação de textos claros e cativantes.
