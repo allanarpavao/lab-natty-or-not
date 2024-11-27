@@ -1,3 +1,7 @@
+
+[![Português](https://img.shields.io/badge/PT-blue)](README.pt.md)
+[![English](https://img.shields.io/badge/EN-blue)](README.md)
+
 # **Cuidando da Saúde Mental: Um Guia**
 
 ## 📒 Descrição
